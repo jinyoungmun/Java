@@ -1,0 +1,10 @@
+package study02;
+
+public class CalculTest {
+
+	public static void main(String[] args) {
+
+		Calculator.plus(Calculator.pi,Calculator.pi);
+	}
+
+}

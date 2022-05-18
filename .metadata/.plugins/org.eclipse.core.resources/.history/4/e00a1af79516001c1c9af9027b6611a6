@@ -1,0 +1,13 @@
+package study02;
+
+public class CalculTest {
+
+	public static void main(String[] args) {
+
+		double num = Calculator.plus(1,2);
+		Calculator.minus(3,4);
+		Calculator.multiply(Calculator.pi,3);
+		System.out.println(num);
+	}
+
+}
